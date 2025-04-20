@@ -7,7 +7,8 @@
  **Data Transformation:** Split multi-response columns, merged tables, created calculated columns (e.g., average salary), and standardized title fields.
  
  **Data Visualization:** 
-  **Card:** Total survey takers  
+
+- **Card:** Total survey takers  
 - **Treemap:** Respondents by country  
 - **Stacked Bar Chart:** Avg. salary by job title  
 - **Stacked Column Chart:** Favorite programming languages by role  
