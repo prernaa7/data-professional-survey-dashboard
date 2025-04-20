@@ -1,7 +1,5 @@
 # Survey-Report
 
-# Report
-
  **Import Data:** Imported data from Excel or CSV files into Power BI for analysis.  
  
  **Data Cleanup:** Used Power Query Editor to remove unnecessary columns, split combined values, replace inconsistencies, remove duplicates, rename/reorder fields, and create custom columns for clarity.
