@@ -16,6 +16,7 @@
 - **Donut Chart:** Entry difficulty into data field  
 - **Pie Chart:** Gender distribution with avg. salary by gender
 
+
 **Insights**
 
 **Count of Survey Takers (Card)**
